@@ -76,7 +76,7 @@
 
 ## 🎨 디자인 & 와이어프레임
 
-👉 [Figma 링크](https://www.figma.com) _(추후 업데이트 예정)_
+👉 [Figma 링크](figma.com/design/nUmu3d2s3nXtaI5iSTdyjl/김대섭) _(추후 업데이트 예정)_
 
 ---
 
